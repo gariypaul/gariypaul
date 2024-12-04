@@ -19,7 +19,7 @@ Hello! I'm Paul Odhiambo Gariy, a passionate Software Engineer. I am a Computer 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+  ![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -34,10 +34,10 @@ Hello! I'm Paul Odhiambo Gariy, a passionate Software Engineer. I am a Computer 
 ## 📫 &nbsp; Connect with Me 
 <p align="center">
 <a href="https://www.linkedin.com/in/odhiambo-gariy/">
-  <img align="left" alt="Paul's LinkedIn" width="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Paul's LinkedIn" height="20px" width="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/gariypaul">
-  <img align="left" alt="Paul's Github" width="40px" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+  <img align="left" alt="Paul's Github" height="20px" width="40px" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
 </a>
 <br />
 </p>
