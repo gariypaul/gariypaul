@@ -2,7 +2,7 @@
 
 ## 🌟 Profile Summary
 
-Hello! I'm Paul Odhiambo Gariy, a passionate Software Engineer. I am a Computer Science Student at the University of Oklahoma. I am interested in Artifi 
+Hello! I'm Paul Odhiambo Gariy, a passionate Software Engineer.
 - 🔭 I’m currently a full-time student at the University of Oklahoma - Norman Campus
 - 🌱 Exploring and learning more about FullStack Software Development, Parallel and Distributed Networks, Artificial Intelligence/Machine Learning Algorithms
 - ⚡ Interested in Electrical Engineering, Physics and Music Design
