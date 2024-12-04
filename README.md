@@ -34,10 +34,10 @@ Hello! I'm Paul Odhiambo Gariy, a passionate Software Engineer. I am a Computer 
 ## 📫 &nbsp; Connect with Me 
 <p align="center">
 <a href="https://www.linkedin.com/in/odhiambo-gariy/">
-  <img align="left" alt="Paul's LinkedIn" height="20px" width="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Paul's LinkedIn" height="34px" width="60px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/gariypaul">
-  <img align="left" alt="Paul's Github" height="20px" width="40px" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+  <img align="left" alt="Paul's Github" height="34px" width="60px" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
 </a>
 <br />
 </p>
