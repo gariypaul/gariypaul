@@ -46,4 +46,4 @@ Hello! I'm Paul Odhiambo Gariy, a passionate Software Engineer.
 
 Thanks for stopping by! 🌟 Let's build something amazing together.  
 
-[![Pauls's GitHub stats](https://github-readme-stats.vercel.app/api?username=gariypaul)](https://github.com/gariypaul/github-readme-stats)
+
