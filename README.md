@@ -3,9 +3,9 @@
 ## 🌟 Profile Summary
 
 Hello! I'm Paul Odhiambo Gariy, a passionate Software Engineer.
-- 🔭 I’m currently a full-time student at the University of Oklahoma - Norman Campus
-- 🌱 Exploring and learning more about FullStack Software Development, Parallel and Distributed Networks, Artificial Intelligence/Machine Learning Algorithms
-- ⚡ Interested in Electrical Engineering, Physics and Music Design
+- SWE @ Google
+- Android Programming, FullStack Software Development, Parallel and Distributed Networks, Artificial Intelligence/Machine Learning Algorithms
+- Interested in Electrical Engineering, Physics and Music Design
 
 ### 🛠 &nbsp;Tech Stack
 - 💻 &nbsp;
@@ -41,9 +41,4 @@ Hello! I'm Paul Odhiambo Gariy, a passionate Software Engineer.
 </a>
 <br />
 </p>
-
----
-
-Thanks for stopping by! 🌟 Let's build something amazing together.  
-
 
